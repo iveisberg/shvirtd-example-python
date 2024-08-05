@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 cd /opt/
 sudo git clone -v https://github.com/iveisberg/shvirtd-example-python.git
